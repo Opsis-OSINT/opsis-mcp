@@ -4,11 +4,20 @@
   "title": "Opsis OSINT",
   "description": "OSINT search: find the accounts behind an email, username or domain across 1,000+ sources.",
   "websiteUrl": "https://useopsis.com/products/osint-mcp",
+  "icons": [
+    {
+      "src": "https://useopsis.com/icon.svg",
+      "mimeType": "image/svg+xml",
+      "sizes": [
+        "any"
+      ]
+    }
+  ],
   "repository": {
     "url": "https://github.com/Opsis-OSINT/opsis-mcp",
     "source": "github"
   },
-  "version": "1.0.0",
+  "version": "1.0.1",
   "remotes": [
     {
       "type": "streamable-http",
